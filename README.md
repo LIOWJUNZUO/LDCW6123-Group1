@@ -28,21 +28,21 @@
 
 ## Project Components
 ### Website (Wix)
-- **Description:**
+**Description:**
 - In this project, we will use wix.com (a semi-functional website) to design a website for our blog post.
 - Our blog post is all about food recipe. When people want to cook, they can easily browse our webpage and look for the food they want to cook.
 
 ### Mobile App Prototype (Figma)
-- **Description:**
+**Description:**
 - In this project, we will use Figma to design a prototype for a mobile app for further enhancement.
 - People will not only browse our blog posts via webpage, but also mobile app.
 
 ### User Manual (Canva)
-- **Description:**
+**Description:**
 - In this project, will will use Canva to write a comprehensive user manual to help users navigate the mobile app.
 
 ## Setup and Installation
-1. **Website:** Access the website [here]([link-to-wix-website](https://jasonliow72.wixsite.com/ldcw6123project)).
+1. **Website:** Access the website [[here](https://jasonliow72.wixsite.com/ldcw6123project)].
 2. **Mobile App Prototype:** View the prototype [here]([link-to-figma-prototype](https://www.figma.com/design/uC3Cmt7jNO8XKktKG4Rp7K/LDCW-Project?node-id=0-1&t=SsON95QpB45skWwC-0)).
 3. **User Manual:** Read the manual [here]([link-to-canva-manual](https://www.canva.com/design/DAGHEAeHc54/Yw8ezIxjj7FFSpPkeS3IkQ/edit?utm_content=DAGHEAeHc54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)).
 
