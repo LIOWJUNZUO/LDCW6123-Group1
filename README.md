@@ -43,8 +43,8 @@
 
 ## Setup and Installation
 1. **Website:** Access the website [[here](https://jasonliow72.wixsite.com/ldcw6123project)].
-2. **Mobile App Prototype:** View the prototype [here]([link-to-figma-prototype](https://www.figma.com/design/uC3Cmt7jNO8XKktKG4Rp7K/LDCW-Project?node-id=0-1&t=SsON95QpB45skWwC-0)).
-3. **User Manual:** Read the manual [here]([link-to-canva-manual](https://www.canva.com/design/DAGHEAeHc54/Yw8ezIxjj7FFSpPkeS3IkQ/edit?utm_content=DAGHEAeHc54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)).
+2. **Mobile App Prototype:** View the prototype [[here](https://www.figma.com/design/uC3Cmt7jNO8XKktKG4Rp7K/LDCW-Project?node-id=0-1&t=SsON95QpB45skWwC-0)].
+3. **User Manual:** Read the manual [[here](https://www.canva.com/design/DAGHEAeHc54/Yw8ezIxjj7FFSpPkeS3IkQ/edit?utm_content=DAGHEAeHc54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)].
 
 ## Usage Instructions
 ### Website
